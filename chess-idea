@@ -1,0 +1,45 @@
+So I was considering your chess website idea
+and had some ideas to extend that.
+
+I'm mot sure exactly what you had in mind, but
+from what I heard, I was imagining we would
+build a "chess engine" out of HTML and JavaScript
+-which don't get me wrong, is totally doable-
+but we'd both be jumping through hoops trying
+to get HTML and JavaScript to do what we want.
+And yes, that's the whole point of having a 
+personal project, to get out of your comfort
+zone and learn new things. But I think we can
+still do that without having to build the chess
+game from scratch.
+
+What I'm getting at here is that we could build
+the chess game in unity, build it for WebGL,
+and then have it interface with back-end programs
+on the server from there. Unity would essentially
+just be out "front-end" displaying the chess
+board and receiving input from the player(s).
+
+Idk about you, but that sounds fucking wicked.
+We could design it in a way that the "front-end"
+Unity side of the app is just that: front-end.
+Anything the player does (or tries to do rather)
+gets sent to the server, where the chess game is
+actually being run, perhaps on a C++ or something
+program. The server program would receive the
+data from the player, and then based on that input
+spit something back to the client for the unity
+application to receive.
+
+And from there, like you said, since the chess
+game is being run independently of the unity
+app, we could create an AI that will play
+with a user. And from THERE we could integrate
+machine learning that could learn from every
+game it plays.
+
+The state of an in-progress game could also
+easily be serialized and saved to a file.
+
+Sounds like wicked fun.
+Let me know what you think.

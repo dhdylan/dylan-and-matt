@@ -1,0 +1,64 @@
+So I recently started reading Marcus Aurelius'
+"Meditations". While reading the introduction
+I considered the notion that most people
+nowadays likely don't subscribe to a single
+school of philosophy as the ancient Greeks did.
+Back then, there was the school of Stoicism,
+the school of Epicureanism, the school of 
+<philosophy>. Well known thinkers would likely
+not tell you "Well I kinda like some of those
+ideas, and I kinda borrow from these guys too".
+They were much more rigidly aligned with a
+particular school of thought.
+
+Nowadays, most people don't think this way.
+Imagine, if you will, all of your beliefs,
+your worldview, religion/lack of; your
+personal "philosophy on life" represented
+as a beam of light. Shine this light through
+a "philosophical prism", and it would likely
+reveal a wide and varied gamut of schools of
+thought; maybe a bit of Epicureanism, a dash
+of Stoicism, but predominantly Cynicism. You
+get the idea.
+
+And then my ADHD lightbulbs went off: we could
+build a little web app that is like an
+"ancient philosophy personality quiz". A user
+visits the website, fills out some basic
+information (name, age, slt), agrees or 
+disagrees to let the service collect the data,
+and then goes through a massive series of
+questions such as "There's is a higher power
+that governs the univers? Answer 0-5, highly
+disagree or highly agree". Each question would
+be associated with a weight to different 
+schools of thought. At the end of the survey,
+all of the scores are sent to the server to be
+processed, saved in a database (if allowed by
+the user), and sent back to the client to give
+them their "ancient philosophy gamut".
+
+From there we could do all kinds of fun stuff.
+We could calculate all sorts of statistics based
+on all the data from users, we could expand it
+to include more and more philosophies, when we
+send the score back to the client, we could 
+use their score data to add in book recommendations,
+all kinds of neat shit.
+
+We would definitely have to do some research
+on how those kinds of quantitative tests are
+designed, and how the metrics are created, 
+because I have no clue. But surely there is
+information on it.
+
+We'd also no doubt be doing a good bit of
+reading into philosophy. I'm not sure how into
+that you are, but I think it's plenty engaging.
+
+Even if you weren't that interested in
+philosophy, we could adapt this idea to plenty
+of things.
+
+Let me know what you think.
